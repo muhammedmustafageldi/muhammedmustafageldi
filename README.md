@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Mustafa</h1>
 <h3 align="center">A passionate mobile developer from Turkey</h3>
-<img align="right" alt="Coding" width="400" src = "https://github.com/muhammedmustafageldi/muhammedmustafageldi/blob/main/development.png" />
+<img align="right" alt="Coding" width="400" src = "![image](https://user-images.githubusercontent.com/90416097/195982253-2890ea2f-6d0b-4138-94bc-2d4780421941.png)" />
 
 - 📫 How to reach me **muhammedmustafageldi@gmail.com**
 
