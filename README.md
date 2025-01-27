@@ -27,6 +27,3 @@
   <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/djangoproject/djangoproject-ar21.svg" alt="django" width="40" height="40"/> </a>
   <a href="https://developer.apple.com/swift" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/swift/swift-official.svg" alt="php" width="40" height="40"/>
 </p>
-
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=muhammedmustafageldi&layout=compact)
