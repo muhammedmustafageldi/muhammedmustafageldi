@@ -5,7 +5,7 @@
 
 <h3 align="center">A passionate software developer from Turkey</h3>
 
-<img align="right" alt="Coding" width="400" src = "https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExb2kyMmFpa2hvZGh2Z3NkMGxzempjb2NmNnAyZTBjOXNsbXdjcjEyaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.webp"/>
+<img align="right" alt="Coding" width="400" src = "https://github.com/muhammedmustafageldi/My-Github-Files/blob/main/anims/coding-work.gif"/>
 
 
 <br><br>
