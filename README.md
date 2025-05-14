@@ -7,6 +7,12 @@
 
 ---
 
+<p align="center">
+  <img src="https://github.com/muhammedmustafageldi/My-Github-Files/blob/main/anims/coding-work.gif" alt="Coding"/>
+</p>
+
+---
+
 ## 📫 Reach me at  
 **[muhammedmustafageldi@gmail.com](mailto:muhammedmustafageldi@gmail.com)**
 
