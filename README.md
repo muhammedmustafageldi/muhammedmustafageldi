@@ -55,6 +55,6 @@
 
 ---
 
-<p align="center">
+<p align="right">
   <img src="https://github.com/muhammedmustafageldi/My-Github-Files/blob/main/anims/coding-work.gif" alt="Coding" width="400"/>
 </p>
