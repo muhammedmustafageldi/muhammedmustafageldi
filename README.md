@@ -35,7 +35,6 @@
 ---
 
 ## 🛠️ Languages & Tools I'm Learning  
-<p>
 <p align="left">
   <img src="https://github.com/muhammedmustafageldi/My-Github-Files/blob/main/icons/android.png" alt="Android" width="40"/>
   <img src="https://github.com/muhammedmustafageldi/My-Github-Files/blob/main/icons/ios.png" alt="iOS" width="40"/>
@@ -52,13 +51,3 @@
   <img src="https://github.com/muhammedmustafageldi/My-Github-Files/blob/main/icons/django.png" alt="Django" width="40"/>
   <img src="https://github.com/muhammedmustafageldi/My-Github-Files/blob/main/icons/FastAPI.png" alt="FastAPI" width="40"/>
 </p>
-
----
-
-<p align="right">
-  <img src="https://github.com/muhammedmustafageldi/My-Github-Files/blob/main/anims/coding-work.gif" alt="Coding" width="400"/>
-</p>
-  
-</p>
-
-
