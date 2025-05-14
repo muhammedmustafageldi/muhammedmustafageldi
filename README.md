@@ -21,14 +21,35 @@
 </p>
 
 <h3 align="left">Language and tools that I am currently learning:</h3>
+
 <p align="left"> 
-  <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> 
-  <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> 
-  <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> 
-  <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> 
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> 
-  <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a>  
-  <a href="https://www.python.org/" target="_blank" rel="noreferrer"> <img src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/267_Python-512.png" alt="python" width="40" height="40"/> </a>
-  <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/djangoproject/djangoproject-ar21.svg" alt="django" width="40" height="40"/> </a>
-  <a href="https://developer.apple.com/swift" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/swift/swift-official.svg" alt="php" width="40" height="40"/>
+  
+  <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://github.com/muhammedmustafageldi/My-Github-Files/blob/main/icons/android.png" alt="android" width="40" height="40"/> </a> 
+  
+  <a href="https://developer.apple.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/muhammedmustafageldi/My-Github-Files/blob/main/icons/ios.png" alt="apple" width="40" height="40"/> </a> 
+  
+  <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://github.com/muhammedmustafageldi/My-Github-Files/blob/main/icons/java.png" alt="java" width="40" height="40"/> </a> 
+  
+  <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://github.com/muhammedmustafageldi/My-Github-Files/blob/main/icons/kotlin.png" alt="kotlin" width="40" height="40"/> </a> 
+
+<a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer"> <img src="https://github.com/muhammedmustafageldi/My-Github-Files/blob/main/icons/swift.png" alt="swift" width="40" height="40"/> </a> 
+
+<a href="https://www.python.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/muhammedmustafageldi/My-Github-Files/blob/main/icons/python.png" alt="python" width="40" height="40"/> </a>
+
+<a href="https://www.javascript.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/muhammedmustafageldi/My-Github-Files/blob/main/icons/javascript.png" alt="javascript" width="40" height="40"/> </a>
+
+<a href="https://dotnet.microsoft.com/en-us/apps/aspnet/web-apps" target="_blank" rel="noreferrer"> <img src="https://github.com/muhammedmustafageldi/My-Github-Files/blob/main/icons/c%23.png" alt="c#" width="40" height="40"/> </a>
+
+  <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/muhammedmustafageldi/My-Github-Files/blob/main/icons/sqlite.png" alt="sqlite" width="40" height="40"/> </a>  
+
+<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/muhammedmustafageldi/My-Github-Files/blob/main/icons/my_sql.png" alt="mysql" width="40" height="40"/> </a> 
+
+<a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/muhammedmustafageldi/My-Github-Files/blob/main/icons/postgresql.png" alt="postgresql" width="40" height="40"/> </a> 
+
+<a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/muhammedmustafageldi/My-Github-Files/blob/main/icons/firebase.png" alt="firebase" width="40" height="40"/></a> 
+  
+<a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/muhammedmustafageldi/My-Github-Files/blob/main/icons/django.png" alt="django" width="40" height="40"/> </a>
+
+<a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/muhammedmustafageldi/My-Github-Files/blob/main/icons/FastAPI.png" alt="fastAPI" width="40" height="40"/> </a>
+
 </p>
