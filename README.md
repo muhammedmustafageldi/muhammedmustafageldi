@@ -14,10 +14,15 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/muhammedmustafageldi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="muhammedmustafageldi" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/17855665" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="17855665" height="30" width="40" /></a>
-<a href="https://instagram.com/yeuxmavie" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="yeuxmavie" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/swankydata9" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="swankydata9" height="30" width="40" /></a>
+  
+<a href="https://linkedin.com/in/muhammedmustafageldi" target="blank"><img align="center" src="https://github.com/muhammedmustafageldi/My-Github-Files/blob/main/icons/linkedin.png" alt="muhammedmustafageldi" height="30" width="40" /></a>
+  
+<a href="https://stackoverflow.com/users/17855665" target="blank"><img align="center" src="https://github.com/muhammedmustafageldi/My-Github-Files/blob/main/icons/stack-overflow.png" alt="17855665" height="30" width="40" /></a>
+
+<a href="https://instagram.com/yeuxmavie" target="blank"><img align="center" src="https://github.com/muhammedmustafageldi/My-Github-Files/blob/main/icons/instagram.png" alt="yeuxmavie" height="30" width="40" /></a>
+
+<a href="https://www.hackerrank.com/swankydata9" target="blank"><img align="center" src="https://github.com/muhammedmustafageldi/My-Github-Files/blob/main/icons/hackerrank.png" alt="swankydata9" height="30" width="40" /></a>
+
 </p>
 
 <h3 align="left">Language and tools that I am currently learning:</h3>
