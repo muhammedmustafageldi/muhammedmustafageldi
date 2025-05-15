@@ -43,6 +43,8 @@
   <img src="https://github.com/muhammedmustafageldi/My-Github-Files/blob/main/icons/swift.png" alt="Swift" width="40"/>
   <img src="https://github.com/muhammedmustafageldi/My-Github-Files/blob/main/icons/python.png" alt="Python" width="40"/>
   <img src="https://github.com/muhammedmustafageldi/My-Github-Files/blob/main/icons/javascript.png" alt="JavaScript" width="40"/>
+  <img src="https://github.com/muhammedmustafageldi/My-Github-Files/blob/main/icons/html.png" alt="Html" width="40"/>
+  <img src="https://github.com/muhammedmustafageldi/My-Github-Files/blob/main/icons/css.png" alt="Css" width="40"/>
   <img src="https://github.com/muhammedmustafageldi/My-Github-Files/blob/main/icons/c%23.png" alt="C#" width="40"/>
   <img src="https://github.com/muhammedmustafageldi/My-Github-Files/blob/main/icons/sqlite.png" alt="SQLite" width="40"/>
   <img src="https://github.com/muhammedmustafageldi/My-Github-Files/blob/main/icons/my_sql.png" alt="MySQL" width="40"/>
@@ -50,4 +52,5 @@
   <img src="https://github.com/muhammedmustafageldi/My-Github-Files/blob/main/icons/firebase.png" alt="Firebase" width="40"/>
   <img src="https://github.com/muhammedmustafageldi/My-Github-Files/blob/main/icons/django.png" alt="Django" width="40"/>
   <img src="https://github.com/muhammedmustafageldi/My-Github-Files/blob/main/icons/FastAPI.png" alt="FastAPI" width="40"/>
+  <img src="https://github.com/muhammedmustafageldi/My-Github-Files/blob/main/icons/bootstrap.png" alt="Bootstrap" width="40"/>
 </p>
